@@ -1,6 +1,5 @@
 Rencana Muhammad dalam kurun waktu 3 bulan.
 
-1. Saya ingin konsisten belajar HTML, CSS, dan JavaScript dalam kurun waktu 1 bulan.
-2. Setelah itu, saya ingin membuat project sederhana.
-3. Saya ingin konsisten belajar PHP dalam kurun waktu 2 bulan.
-4. Setelah itu, saya ingin membuat project sederhana.
+1. Pada bulan pertama saya ingin belajar HTML, CSS, dan JavaScript. Dan membuat project sederhana.
+2. Pada bulan kedua dan ketiga saya ingin belajar PHP dan membuat project sederhana.
+3. Pada bulan kelima saya ingin belajar C++ dan membuat project sederhana.
